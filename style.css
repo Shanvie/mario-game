@@ -1,0 +1,43 @@
+
+#Heading{
+	width: 100%;
+	text-align: left;
+	height: 50px;
+	font-size: 25px;
+}
+#Heading button{
+   float: right;
+   border: 1px solid black;
+   bottom: 20px;
+}
+#Heading h3{
+	display: inline;
+}
+img{
+	width: 100%;
+}
+#Play{
+	font-size:25px;
+}
+h4{
+  color: black;
+  background-color: grey;
+  line-height: 30px;
+  margin: 0px;
+}
+.img1{
+    width: 45%;
+    display: inline-block;
+}
+.modal-dialog{
+	width: 90%;
+}
+video{
+	background:url('game_console.png');
+	background-size: cover;
+	background-position: center;
+	padding: 25px;
+}
+.mario{
+	width: 100%;
+}
